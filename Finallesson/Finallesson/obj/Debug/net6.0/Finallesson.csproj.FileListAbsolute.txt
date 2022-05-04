@@ -1,0 +1,15 @@
+D:\Test\FinalWork\Finallesson\Finallesson\bin\Debug\net6.0\Finallesson.exe
+D:\Test\FinalWork\Finallesson\Finallesson\bin\Debug\net6.0\Finallesson.deps.json
+D:\Test\FinalWork\Finallesson\Finallesson\bin\Debug\net6.0\Finallesson.runtimeconfig.json
+D:\Test\FinalWork\Finallesson\Finallesson\bin\Debug\net6.0\Finallesson.dll
+D:\Test\FinalWork\Finallesson\Finallesson\bin\Debug\net6.0\Finallesson.pdb
+D:\Test\FinalWork\Finallesson\Finallesson\obj\Debug\net6.0\Finallesson.csproj.AssemblyReference.cache
+D:\Test\FinalWork\Finallesson\Finallesson\obj\Debug\net6.0\Finallesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\FinalWork\Finallesson\Finallesson\obj\Debug\net6.0\Finallesson.AssemblyInfoInputs.cache
+D:\Test\FinalWork\Finallesson\Finallesson\obj\Debug\net6.0\Finallesson.AssemblyInfo.cs
+D:\Test\FinalWork\Finallesson\Finallesson\obj\Debug\net6.0\Finallesson.csproj.CoreCompileInputs.cache
+D:\Test\FinalWork\Finallesson\Finallesson\obj\Debug\net6.0\Finallesson.dll
+D:\Test\FinalWork\Finallesson\Finallesson\obj\Debug\net6.0\refint\Finallesson.dll
+D:\Test\FinalWork\Finallesson\Finallesson\obj\Debug\net6.0\Finallesson.pdb
+D:\Test\FinalWork\Finallesson\Finallesson\obj\Debug\net6.0\Finallesson.genruntimeconfig.cache
+D:\Test\FinalWork\Finallesson\Finallesson\obj\Debug\net6.0\ref\Finallesson.dll
